@@ -1,5 +1,6 @@
 import time
 import sys
+import Clase_Pokemon
 
 
 # Delay al escribir
