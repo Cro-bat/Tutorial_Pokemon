@@ -10,4 +10,3 @@ def delay_print(s):
         sys.stdout.flush()
         time.sleep(0.05)
 
-
